@@ -1,4 +1,5 @@
 # SIGNATURE CUISINE
- <img src="assets/home.png">
-<img src="assets/menu.png"> 
-<img src="assets/aboutus.png">
+ 
+![home page](assets/home.png)
+![menu page](assets/menu.png)
+![about us page](assets/aboutus.png)
